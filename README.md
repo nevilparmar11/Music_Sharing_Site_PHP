@@ -11,7 +11,7 @@ This site is made using PHP as a part of DM project.
 [Click Here](https://www.youtube.com/watch?v=U1TKYU-zpMQ&t=117s) <br/>
 
 ### The MIT License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nevilparmar11/Music_Sharing_Site_PHP/blob/master/LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nevilparmar11/Music_Sharing_Site_PHP/blob/master/LICENSE.md)  
 
 ---------
 
