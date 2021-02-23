@@ -9,3 +9,22 @@ This site is made using PHP as a part of DM project.
 
 # Video Tutorial 
 [Click Here](https://www.youtube.com/watch?v=U1TKYU-zpMQ&t=117s) <br/>
+
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nevilparmar11/Music_Sharing_Site_PHP/blob/main/LICENSE)  
+
+---------
+
+```javascript
+
+if (youEnjoyed) {
+    starThisRepository();
+}
+
+```
+
+-----------
+
+
+## Thank You
+- Author : [Nevil Parmar](https://nevilparmar.me)
